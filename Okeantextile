@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Okean</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
+  body{background:linear-gradient(180deg,#0077b6,#00b4d8,#90e0ef);min-height:100vh;color:white;text-align:center;padding:40px 20px}
+  h1{font-size:52px;letter-spacing:4px}
+  p{font-size:18px;margin-top:12px;opacity:0.95}
+  .box{background:rgba(255,255,255,0.15);border-radius:20px;padding:24px;margin:30px auto;max-width:500px}
+  .box h2{font-size:22px;margin-bottom:10px}
+  .btn{display:inline-block;margin-top:25px;background:white;color:#0077b6;padding:14px 28px;border-radius:30px;font-weight:bold;text-decoration:none}
+</style>
+</head>
+<body>
+  <h1>OKEAN</h1>
+  <p>Okeanga xush kelibsiz</p>
+
+  <div class="box">
+    <h2>Okean nima?</h2>
+    <p>Bu yerda okean kabi keng, tinch va chuqur fikrlar bo'ladi.</p>
+  </div>
+
+  <div class="box">
+    <h2>Nima topasan?</h2>
+    <p>Fikrlar, matnlar va yangi loyihalar.</p>
+  </div>
+
+  <a class="btn" href="#">Boshlash</a>
+</body>
+</html>
